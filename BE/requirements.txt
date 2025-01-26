@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python-headless
+tensorflow
+scikit-learn
+reportlab
+transformers
+# fastapi==0.95.2
+# uvicorn==0.22.0
+# python-multipart==0.0.6
+# opencv-python-headless==4.7.0.72
+# tensorflow==2.10.0
+# scikit-learn==1.2.2
+# reportlab==3.6.13
+# transformers==4.31.0
