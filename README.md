@@ -39,6 +39,14 @@ MedScan AI is a web-based application designed for efficient image processing an
 
 ---
 
+## 📂 Dataset
+🚀 **Download the dataset here**: [Google Drive Dataset](https://drive.google.com/your-dataset-link)
+
+## 🔧 Setup Instructions
+1️⃣ **Clone the repository**
+```bash
+git clone https://github.com/NagaPawan-Keerthan/MedScan-AI.git
+
 ## Installation
 
 Follow the steps below to set up the project on your local machine:
